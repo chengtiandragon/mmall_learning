@@ -4,6 +4,9 @@
 *.war
 *.ear
 
+#maven ignore
+target/
+
 #kdiff3 ignore
 *.orig
 

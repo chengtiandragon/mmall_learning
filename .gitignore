@@ -1,14 +1,16 @@
-*.class
+gie *.class
 
 #package file
 *.war
 *.ear
 
-#maven ignore
-target/
 
 #kdiff3 ignore
 *.orig
+
+#maven ignore
+target/
+
 
 #ecplise ignore
 .settings/
